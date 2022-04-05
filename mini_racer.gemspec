@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'mini_racer/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "mini_racer"
+  spec.name          = "legacy_mini_racer"
   spec.version       = MiniRacer::VERSION
   spec.authors       = ["Sam Saffron"]
   spec.email         = ["sam.saffron@gmail.com"]
